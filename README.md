@@ -23,3 +23,17 @@ CSS
 JS
 Bootstrap
 FontAwesome
+
+Features and design
+The website is designed in such a way that it offers different features for two type of users:
+User
+-register
+-log in
+-make appointment 
+-add review
+Admin
+-database access
+-delete users, services, appointments, reviews 
+-edit services
+-add services
+-approve reviews
